@@ -1,0 +1,6 @@
+{
+  "name": "CoulombLab — 2D Electrostatic Field & Equipotential Mapper",
+  "description": "Interactive 2D electrostatic field line, equipotential contour, and field intensity heatmap simulator for physics students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
